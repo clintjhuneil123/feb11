@@ -1,0 +1,4 @@
+#Mon Feb 11 07:58:11 CST 2019
+base.0=C\:\\Users\\Administrator\\Desktop\\aaaaaaaaa\\IMYASFINAL\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
